@@ -1,0 +1,16 @@
+{
+  "name": "array-asyncify",
+  "version": "0.0.5",
+  "description": "Async array functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "asyncify array",
+    "async map",
+    "async filter"
+  ],
+  "author": "Qianba",
+  "license": "ISC"
+}
